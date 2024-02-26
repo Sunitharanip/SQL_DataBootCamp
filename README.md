@@ -1,4 +1,4 @@
-# SQL_Workbench_DataBootCamp
+# SQL_DataBootCamp
 This Repository contains Sql quieries with joins for Sakila database and Classic Model database
 SQL Querying for Data Analysis in SQL Workbench
 Introduction
